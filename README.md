@@ -1,3 +1,4 @@
+
 # Project game: 2D adventure
 Link youtube: (3) How to Make a 2D Game in Java #1 - The Mechanism of 2D Games - YouTube
 
@@ -13,4 +14,3 @@ LƯU Ý:
 o	Ví dụ: Minh hnay code clip số 30, thêm nhân vật, chuyển động bắn, lướt, chỉnh sửa map thêm rộng hơn. Nội dung commit nên có đầy đủ những yếu tố như trên, thì các bạn còn lại mới follow được 
 -	Trước khi mình bắt đầu code, nhớ phải update code trên github (dùng git pull), tránh lỗi xuất hiện (code rất nhanh, nhưng nếu chỉ cần có lỗi, debug là ko thể do thời gian ngắn). Nếu không biết thì nên hỏi hoặc coi youtube
 -	
-
